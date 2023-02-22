@@ -1,6 +1,6 @@
 {
   "name": "@tequila99/project-name-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Генерация бессмысленных имен проектов или других сущностей",
   "main": "index.js",
   "author": "Ivan Milovanov <tequila00@yandex.ru>",

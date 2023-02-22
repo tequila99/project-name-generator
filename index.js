@@ -4,8 +4,8 @@ const adjectives = require('./adjectives.js')
 const defaultOptions = {
   number: false,
   words: 2,
-  alliterative: true,
-  capitalize: true
+  alliterative: false,
+  capitalize: false
 }
 
 const getAliiterativeMatches = (a, letter) => a.filter(el => el.indexOf(letter.toLowerCase()) === 0)

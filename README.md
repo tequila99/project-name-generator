@@ -10,7 +10,7 @@
 `npm install project-name-generator --save`
 
 ## Начало работы
-const generate = require('project-name-generator');
+const generate = require('@tequila99/project-name-generator');
 
 generate().dashed; // 'uptight-guitar'
 
