@@ -7,7 +7,7 @@
 Убраны зависимости, тащить для такой простой задачи lodash не хотелось бы. Добавлен еще один параметр в options. 
 
 ## Установка
-`npm install project-name-generator --save`
+`npm install @tequila/project-name-generator --save`
 
 ## Начало работы
 const generate = require('@tequila99/project-name-generator');
